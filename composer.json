@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "kkamara/php-react-boilerplate",
+    "name": "kkamara/crm-3",
     "authors": [
         {
             "name": "Kelvin Kamara",

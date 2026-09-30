@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/kkamara/useful/refs/heads/main/php-react-boilerplate2.png" alt="php-react-boilerplate2.png" width=""/>
 
-# PHP React Boilerplate [![API](https://github.com/kkamara/php-react-boilerplate/actions/workflows/build.yml/badge.svg)](https://github.com/kkamara/php-react-boilerplate/actions/workflows/build.yml)
+# Client Relational Management System 3 [![API](https://github.com/kkamara/crm-3/actions/workflows/build.yml/badge.svg)](https://github.com/kkamara/crm-3/actions/workflows/build.yml)
 
-(03-Mar-2022) A Laravel 13.x boilerplate with React 19 Redux SPA.
+(30-Sep-2026) Built with Laravel 10.
 
 * [Using Postman?](#postman)
 
