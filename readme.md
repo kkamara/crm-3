@@ -4,7 +4,7 @@
 
 # Client Relational Management System 3 [![API](https://github.com/kkamara/crm-3/actions/workflows/build.yml/badge.svg)](https://github.com/kkamara/crm-3/actions/workflows/build.yml)
 
-(30-Sep-2026) Built with Laravel 10.
+(30-Sep-2026) Built with Laravel 13.
 
 * [Using Postman?](#postman)
 
