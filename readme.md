@@ -6,8 +6,6 @@
 
 (30-Sep-2026) Built with Laravel 13.
 
-* [Using Postman?](#postman)
-
 * [Installation](#installation)
 
 * [Usage](#usage)
@@ -21,15 +19,6 @@
 * [Contributing](#contributing)
 
 * [License](#license)
-
-<a name="postman"></a>
-## Using Postman?
-
-[Get Postman HTTP client](https://www.postman.com/).
-
-[Postman API Collection for PHP React Boilerplate](./database/php-react-boilerplate.postman_collection.json).
-
-[Postman API Environment for PHP React Boilerplate](./database/php-react-boilerplate.postman_environment.json).
 
 ## Installation
 
