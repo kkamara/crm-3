@@ -40,14 +40,6 @@ php artisan migrate:status --path=database/migrations/V1
 php artisan migrate --path=database/migrations/V1 --seed
 ```
 
-#### Frontend Installation
-
-```bash
-npm install --global yarn
-yarn install
-yarn build
-```
-
 ## Usage
 
 ```bash
